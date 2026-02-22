@@ -7,12 +7,14 @@ My daily LeetCode solutions to improve Data Structures &amp; Algorithms for codi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -29,6 +31,7 @@ My daily LeetCode solutions to improve Data Structures &amp; Algorithms for codi
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
