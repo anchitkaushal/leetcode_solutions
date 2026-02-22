@@ -7,6 +7,7 @@ My daily LeetCode solutions to improve Data Structures &amp; Algorithms for codi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0001-two-sum) |
+| [0238-product-of-array-except-self](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -45,4 +46,8 @@ My daily LeetCode solutions to improve Data Structures &amp; Algorithms for codi
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
