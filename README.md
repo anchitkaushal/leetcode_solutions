@@ -15,6 +15,7 @@ My daily LeetCode solutions to improve Data Structures &amp; Algorithms for codi
 | ------- |
 | [0001-two-sum](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -23,6 +24,7 @@ My daily LeetCode solutions to improve Data Structures &amp; Algorithms for codi
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
@@ -32,6 +34,7 @@ My daily LeetCode solutions to improve Data Structures &amp; Algorithms for codi
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
