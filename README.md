@@ -10,6 +10,7 @@ My daily LeetCode solutions to improve Data Structures &amp; Algorithms for codi
 | [0217-contains-duplicate](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,20 +31,24 @@ My daily LeetCode solutions to improve Data Structures &amp; Algorithms for codi
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -56,4 +61,16 @@ My daily LeetCode solutions to improve Data Structures &amp; Algorithms for codi
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
