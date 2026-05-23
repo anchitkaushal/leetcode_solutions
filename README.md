@@ -82,4 +82,9 @@ My daily LeetCode solutions to improve Data Structures &amp; Algorithms for codi
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
