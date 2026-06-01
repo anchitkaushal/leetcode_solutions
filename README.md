@@ -23,6 +23,7 @@ My daily LeetCode solutions to improve Data Structures &amp; Algorithms for codi
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -82,6 +83,7 @@ My daily LeetCode solutions to improve Data Structures &amp; Algorithms for codi
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0206-reverse-linked-list) |
