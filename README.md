@@ -11,6 +11,7 @@ My daily LeetCode solutions to improve Data Structures &amp; Algorithms for codi
 | [0238-product-of-array-except-self](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/anchitkaushal/leetcode_solutions/tree/master/1051-height-checker) |
 ## Hash Table
@@ -102,6 +103,7 @@ My daily LeetCode solutions to improve Data Structures &amp; Algorithms for codi
 | [0225-implement-stack-using-queues](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -117,4 +119,5 @@ My daily LeetCode solutions to improve Data Structures &amp; Algorithms for codi
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/anchitkaushal/leetcode_solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
